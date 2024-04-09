@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">E1_FFQ</string>
+    <string name="saldo_i">Reason: Insufficient balance</string>
+    <string name="txt_saldo">Balance:</string>
+    <string name="resumen">Summary</string>
+    <string name="saldo_f">Final Balance:</string>
+    <string name="metodo">Payment Method</string>
+    <string name="txt_tar">Number Card</string>
+    <string name="text_fecha">Expiration Date</string>
+    <string name="txt_cvv">CVV</string>
+    <string name="txt_cliente">Name</string>
+    <string name="txt_email">E-mail</string>
+    <string name="txt_example">example@amaury.com</string>
+    <string name="txt_pago">Total:</string>
+    <string name="paypal">PayPal</string>
+    <string name="turn_off">Turn Off Card</string>
+    <string name="guardar">Save all Data</string>
+    <string name="title">Payment Method</string>
+    <string name="continuar">Buy</string>
+    <string name="txt_credit">Credit Card</string>
+    <string name="cartera">Wallet</string>
+    <string name="ejemplo_nombre">John Doe</string>
+    <string name="aviso_num">Enter Credit Card</string>
+    <string name="exito">Exit</string>
+    <string name="descripcioncorreo">Enter E-Mail</string>
+    <string name="dato_txt">Enter CVV</string>
+    <string name="fecha_txt">Enter Date</string>
+    <string name="Toast_ingresar">Please, enter all data</string>
+    <string name="txt_required">It\'s required</string>
+    <string name="Toast_falta_datos">Payment Method not available</string>
+    <string name="Toast_llenar">Enter your information</string>
+    <string name="pago_realizado">Payment Made</string>
+    <string name="pago_rechazado">Payment Declined</string>
+    <string name="producto_precio">Price:</string>
+    <string name="titulo">Virtual Wallet</string>
+</resources>

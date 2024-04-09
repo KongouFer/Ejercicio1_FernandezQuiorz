@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">E1_FFQ</string>
+    <string name="producto_precio">Producto a comprar:</string>
+    <string name="saldo_i">Motivo: Saldo insuficiente</string>
+    <string name="txt_saldo">"Saldo: "</string>
+    <string name="resumen">Resumen de la operación</string>
+    <string name="saldo_f">"Saldo final: "</string>
+    <string name="metodo">Método de pago</string>
+    <string name="txt_tar">Número de tarjeta</string>
+    <string name="text_fecha">Fecha de expiración</string>
+    <string name="txt_cvv">CVV</string>
+    <string name="txt_cliente">Nombre de propietario</string>
+    <string name="txt_email">Correo electronico</string>
+    <string name="txt_example">ejemplo@example.com</string>
+    <string name="txt_pago">Total a pagar</string>
+    <string name="paypal">Paypal</string>
+    <string name="turn_off">Apagar tarjeta</string>
+    <string name="guardar">Guardar datos de tarjeta</string>
+    <string name="title">Método de pago</string>
+    <string name="continuar">Proceder a pago</string>
+    <string name="txt_credit">Tarjeta de credito</string>
+    <string name="cartera">Wallet</string>
+    <string name="ejemplo_nombre">Felix Fernando Fernandez Quiroz</string>
+    <string name="aviso_num">Ingrese su tarjeta aquí</string>
+    <string name="exito">Salir de la aplicación</string>
+    <string name="descripcioncorreo">Ingresa correo</string>
+    <string name="dato_txt">Ingresa CVV</string>
+    <string name="fecha_txt">Ingresa fecha</string>
+    <string name="Toast_ingresar">Por favor, ingrese todos los datos correspondientes</string>
+    <string name="txt_required">Es requerido</string>
+    <string name="Toast_falta_datos">Método de pago no disponbile</string>
+    <string name="Toast_llenar">Ingrese los datos correspondientes</string>
+    <string name="amount_placeholder" translatable="false">$%s</string>
+    <string name="pago_realizado">Pago realizado</string>
+    <string name="pago_rechazado">Pago rechazado</string>
+    <string name="vacio" translatable="false" />
+    <string name="pic" translatable="false">Picture</string>
+    <string name="titulo">Cartera Virtual</string>
+    <string name="xd" translatable="false">owo</string>
+
+    <string-array name="tipotarjeta">
+        <item>MasterCard</item>
+        <item>Visa</item>
+        <item>AMEX</item>
+    </string-array>
+
+</resources>
